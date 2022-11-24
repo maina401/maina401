@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mugwanjira_m" target="blank"><img src="https://img.shields.io/twitter/follow/mugwanjira_m?logo=twitter&style=for-the-badge" alt="mugwanjira_m" /></a> </p>
 
-- 🔭 I’m currently working on [HimaPay](https://himapay.co.ke)
+- 🔭 I’m currently working on [HimaPay](https://play.google.com/store/apps/details?id=com.himapay.user)
 
 - 💬 Ask me about **vue, Laravel, Flutter, DevOps**
 
