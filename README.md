@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **vue, Laravel, Flutter, DevOps**
 
-- 📄 Know about my experiences [mugwanjira.me](mugwanjira.me)
+- 📄 Know about my experiences [https://mugwanjira.me](mugwanjira.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
