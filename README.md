@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [HimaPay](https://play.google.com/store/apps/details?id=com.himapay.user)
 
-- 💬 Ask me about **Vue, Laravel, .NET, DevOps**
+- 💬 Ask me about **Angular, .NET, DevOps, Apollo GraphQL**
 
 - 📄 Know about my experiences [mugwanjira.me](https://mugwanjira.me)
 
